@@ -1,2 +1,2 @@
 # pythoncdac
-Class assignment
+Class assignment for python
